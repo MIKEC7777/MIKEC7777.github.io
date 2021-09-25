@@ -1,2 +1,3 @@
 # MIKEC7777.github.io
-repository 1
+/Users/mikec96/MIKEC7777.github.io/bioPic4.jpg
+/Users/mikec96/MIKEC7777.github.io/<>index.html
