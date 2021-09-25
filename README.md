@@ -1,3 +1,4 @@
-# MIKEC7777.github.io
-/Users/mikec96/MIKEC7777.github.io/bioPic4.jpg
-/Users/mikec96/MIKEC7777.github.io/<>index.html
+ MIKEC7777.github.io
+/MIKEC7777.github.io/bioPic4.jpg
+<>index.html
+<h1>Mike's Portfolio<h1>
